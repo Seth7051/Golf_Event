@@ -6,3 +6,5 @@ Username: "admin"
 Password: "123"
 
 While not completely refined, I'm proud of the work I've done for my largest project to date using HTML, CSS, and PHP. 
+
+The Menu page is "Assignment13_SN.php".
