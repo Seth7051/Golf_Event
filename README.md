@@ -27,8 +27,10 @@ On the site, you will have 5 options:
 
   1 - Add An Event
     You can add an event year
+    
   2 - Manage Event Golfers
     You can view the golfers and donations for each event
+    
   3 - Logout
     Return to home
 
